@@ -40,7 +40,7 @@ Conversión automática de documentos BSON a JSON para respuestas estandarizadas
 
 ### 🔧 Instalación y Uso
 
-**Clonar repositorio:** git clone https://github.com/portfolio/MicroservicioEventLog
+**Clonar repositorio:** https://github.com/belen-f/portfolio-MicroservicioEventLog.git
 
 **Configurar variables de entorno:** Crear un archivo .env con la MONGO_URL. (teniendo en cuenta si es en local o en la nube)
 
